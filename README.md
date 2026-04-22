@@ -1,54 +1,43 @@
-<h1 align="center">Hi, I'm Allen Day 👋</h1>
+# Allen Day
 
-<p align="center">
-  <b>Data Scientist & Analyst | MS Data Science | Python · SQL · ML · Power BI</b><br>
-  Creator of DermaMind AI | Orange County, CA | Open to opportunities
-</p>
+Data & Analytics professional with a focus on **data engineering, SQL at scale, and building trustworthy data pipelines**. I build tools that make data easier to move, reason about, and trust.
 
-<p align="center">
-  <a href="https://personal-analysis-skincare.deploypad.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=flat" alt="Portfolio"/></a>
-  <a href="mailto:allen.day24@gmail.com"><img src="https://img.shields.io/badge/Email-allen.day24@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+## What I'm working on
 
----
+- **Data pipelines** — robust ETL patterns, schema evolution, and operational reliability
+- **SQL engineering** — query analysis, optimization, and the bridge between analytics and production
+- **Data lineage and provenance** — making the "where did this number come from?" question cheap to answer
+- **Data integration** — reconciling records across systems when there's no shared key
 
-## 🔬 About Me
+## Focus areas
 
-I turn messy data into clear decisions. With a background spanning data science, analytics, and engineering, I specialize in:
-- **Machine Learning** — Customer segmentation (K-Means), time-series forecasting (Prophet), A/B testing
-- **Data Engineering** — Production ETL pipelines, data quality validation, SQL warehousing  
-- **Business Analytics** — KPI dashboards, revenue analysis, executive reporting
+| Area | What I care about |
+|------|-------------------|
+| **ETL / data pipelines** | Idempotency, observability, graceful failure, schema contracts |
+| **SQL & query engineering** | Parse, analyze, and optimize queries; readable over clever |
+| **Data provenance** | Every value in a dataset should be explainable back to its source |
+| **Data integration** | Entity resolution, schema mapping, conflict strategies |
 
----
+## Pinned projects
 
-## 🛠️ Tech Stack
+- **[etl-pipeline](../etl-pipeline)** — Configurable Extract / Transform / Load framework with YAML config and CLI
+- **[sql-query-analyzer](../sql-query-analyzer)** — Parse SQL, surface joins, flag potential issues, and suggest improvements
+- **[data-provenance-tracker](../data-provenance-tracker)** — Lightweight lineage tracking for pandas DataFrames with a graph export
+- **[data-integration-toolkit](../data-integration-toolkit)** — Fuzzy entity resolution and schema mapping across heterogeneous sources
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+## Tools I reach for
 
----
+`Python` · `SQL` · `pandas` · `SQLite` · `pytest` · `R` · `Git` · `Docker` · `Jupyter`
 
-## 🚀 Featured Projects
+## Currently learning
 
-| Project | Description | Results |
-|---------|-------------|---------|
-| 🧬 [DermaMind AI](https://personal-analysis-skincare.deploypad.app) | AI-powered skincare analysis deployed app | Live product |
-| 📊 [Customer Segmentation](https://github.com/Allenday28/Allen-Day-Portfolio/tree/main/projects/customer-segmentation) | RFM + K-Means on 52K customers | 3.2x email open rate lift |
-| 📈 [Revenue Forecasting](https://github.com/Allenday28/Allen-Day-Portfolio/tree/main/projects/revenue-forecasting) | Prophet time-series 90-day forecast | 7.8% MAPE (vs 22% manual) |
-| 🔄 [ETL Data Pipeline](https://github.com/Allenday28/Allen-Day-Portfolio/tree/main/projects/etl-data-pipeline) | Automated 3-source ingestion pipeline | 97% manual work reduction |
-| 🧪 [A/B Testing Framework](https://github.com/Allenday28/Allen-Day-Portfolio/tree/main/projects/ab-testing-analysis) | Statistical testing for marketing | +22.4% email open rate |
-| 💰 [Sales Performance Analysis](https://github.com/Allenday28/Allen-Day-Portfolio/tree/main/projects/sales-performance-analysis) | SQL + Python revenue pipeline analysis | $3.2M+ pipeline insights |
+Stream processing fundamentals, data contracts, and the operational side of analytics engineering.
+
+## Contact
+
+- GitHub: [@Allenday28](https://github.com/Allenday28)
+- Email: allen.day24@gmail.com
 
 ---
 
-## 📁 Portfolio
-
-All projects with full code, documentation, and business context are in my **[Allen Day Portfolio](https://github.com/Allenday28/Allen-Day-Portfolio)** repository.
-
----
-
-<p align="center"><i>Open to data science, analytics, and ML engineering roles. Let's connect!</i></p>
+*This profile README lives in the `Allenday28/Allenday28` repository — the username-matching repo GitHub uses for profile pages.*
