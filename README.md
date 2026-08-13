@@ -37,6 +37,7 @@ Data & Analytics professional based in Orange County, CA. I focus on **data engi
 - **[sql-query-analyzer](https://github.com/Allenday28/sql-query-analyzer)** — Parse SQL, surface joins, flag potential issues, and suggest improvements
 - **[data-provenance-tracker](https://github.com/Allenday28/data-provenance-tracker)** — Lightweight lineage tracking for pandas DataFrames with a graph export
 - **[data-integration-toolkit](https://github.com/Allenday28/data-integration-toolkit)** — Fuzzy entity resolution and schema mapping across heterogeneous sources
+- **[dsc560-cart-conversion-dashboard](https://github.com/Allenday28/dsc560-cart-conversion-dashboard)** — Excel cart-funnel and abandoned-cart recovery dashboard with an executive view, formula layer, and instruction manual (MS data visualization coursework)
 - **[Allen-Day-Portfolio](https://github.com/Allenday28/Allen-Day-Portfolio)** — Data science labs, projects, and DermaMind AI work
 
 ## Tools I reach for
