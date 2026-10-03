@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrallenday31)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@allendaysr)
 [![Email](https://img.shields.io/badge/Email-allen.day%40me.com-D14836?style=flat&logo=maildotru&logoColor=white)](mailto:allen.day@me.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-2ea44f?style=flat)](https://personal-analysis-skincare.deploypad.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-2ea44f?style=flat)](https://github.com/Allenday28/Allen-Day-Portfolio)
+[![DermaMind AI](https://img.shields.io/badge/DermaMind_AI-Live_App-2ea44f?style=flat)](https://personal-analysis-skincare.deploypad.app)
 
 Data & Analytics professional based in Orange County, CA. I focus on **data engineering, SQL at scale, and building trustworthy data pipelines** — tools that make data easier to move, reason about, and trust.
 
@@ -31,7 +32,7 @@ Data & Analytics professional based in Orange County, CA. I focus on **data engi
 | Data provenance | Every value in a dataset should be explainable back to its source |
 | Data integration | Entity resolution, schema mapping, conflict strategies |
 
-## Pinned projects
+## Selected projects
 
 - **[etl-pipeline](https://github.com/Allenday28/etl-pipeline)** — Configurable Extract / Transform / Load framework with YAML config and CLI
 - **[sql-query-analyzer](https://github.com/Allenday28/sql-query-analyzer)** — Parse SQL, surface joins, flag potential issues, and suggest improvements
@@ -68,7 +69,8 @@ Stream processing fundamentals, data contracts, and the operational side of anal
 
 Conversations about **data engineering**, **analytics infrastructure**, **data quality / lineage**, and the legal/policy side of data. Reach out if you're hiring, collaborating, or want to talk shop.
 
-- 🌐 Portfolio: [personal-analysis-skincare.deploypad.app](https://personal-analysis-skincare.deploypad.app)
+- 🌐 Portfolio: [Allen-Day-Portfolio](https://github.com/Allenday28/Allen-Day-Portfolio)
+- 🚀 DermaMind AI: [Live app](https://personal-analysis-skincare.deploypad.app)
 - 💼 LinkedIn: [in/mrallenday31](https://www.linkedin.com/in/mrallenday31)
 - ✍️ Medium: [@allendaysr](https://medium.com/@allendaysr)
 - 📧 Email: allen.day@me.com
