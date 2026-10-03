@@ -13,6 +13,7 @@ Data & Analytics professional based in Orange County, CA. I focus on **data engi
 - ⚖️ Law student — interested in the intersection of data, privacy, and policy
 - 🚀 Building **DermaMind AI**, a personalized skincare analysis product
 - 💼 Data work at **Convert Via**
+- 🏫 **Career and Technical Education (CTE) teacher** — Business Law, Marketing Labs, Entrepreneurship Lab, and Intro to Business
 
 ---
 
